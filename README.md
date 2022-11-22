@@ -1,5 +1,7 @@
 # Orbiter 脚本
 
+> *使用本脚本前可阅读我的Blog文章[Orbiter王牌飞行员交互脚本](https://psycholabs.notion.site/Orbiter-84fbcfcb351c4b9db63bc8de9f56601f)，获取关于脚本的细节信息。*
+
 这个仓库包含一个在[Orbiter](https://www.orbiter.finance/)上进行跨链转账的脚本。
 
 <br/>
