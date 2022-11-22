@@ -7,14 +7,22 @@
 ## 环境准备
 
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-  - 可以尝试运行 `git --version` 正确安装的情况可以看到以下输出 `git version x.x.x`
+  - 安装完成后，可以尝试运行 `git --version` 正确安装的情况可以看到以下输出 `git version x.x.x`
 - [Nodejs](https://nodejs.org/en/)
   - 安装完成后，尝试以下命令:
     - `node --version` 可以得到这样的输出: `vx.x.x`
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
-  - You'll know you've installed yarn right if you can run:
-    - `yarn --version` and get an output like: `x.x.x`
-    - You might need to install it with `npm`
+  - 可以尝试以下命令:
+    - `yarn --version` 可以得到这样的输出: `x.x.x`
+    
+## 快速入门
+
+```bash
+git clone https://github.com/psyljz/orbiter-script
+cd orbiter-script
+yarn
+```
+
 
 ### 运行脚本
 
